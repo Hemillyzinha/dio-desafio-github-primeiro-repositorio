@@ -1,0 +1,11 @@
+Pelo que eu entendi, o Git é a parte que é baixada e utilizada no ambiente local, já o GitHub parace que é a rede social utilizada para postar os projetos realizados no Git.
+
+SOFTWARE NÃO É PARA SER FEITO SOZINHO 
+
+mkdir "nome da pasta" = cria uma pasta onde se estiver
+ls -a = mostra os arquivos ocultos
+ctrl l = limpa 
+git add . = adiciona o que eu estou fazendo, para eu poder dar o push
+git status = verifica o status
+git commit -m = salva o que eu estou fazendo depois de adicionar
+git push origin main = puxa para o GitHub o que eu fiz
